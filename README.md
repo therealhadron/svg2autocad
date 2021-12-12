@@ -1,6 +1,6 @@
 # svg2autocad
 
-NOTE: current limitation requries SVGs created from <a href="http://potrace.sourceforge.net/">potrace</a> to function properly OR shapes drawn using only the Path tag. More information can be found <a href=https://www.w3schools.com/graphics/svg_path.asp>here</a>
+NOTE: current limitation requries SVGs created from <a href="http://potrace.sourceforge.net/">potrace</a> to function properly OR shapes drawn using only the Path tag. More information can be found <a href="https://www.w3schools.com/graphics/svg_path.asp">here</a>
 
 <h1>USAGE</h1>
 
@@ -13,3 +13,5 @@ NOTE: current limitation requries SVGs created from <a href="http://potrace.sour
 4. Run
 
 5. You should see your SVG in AutoCAD!
+
+Example of this in action <a href="https://www.youtube.com/watch?v=9qJEhSsK0fM">here</a>
