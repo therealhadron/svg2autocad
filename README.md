@@ -1,6 +1,6 @@
 # svg2autocad
 
-NOTE: current limitation requries SVGs created from <a href="http://potrace.sourceforge.net/">potrace</a> to function properly OR shapes drawn using only the Path tag. More information can be found <a href="https://www.w3schools.com/graphics/svg_path.asp">here</a>. Current only supports Windows, untested on MacOS
+NOTE: current limitation requries SVGs created from <a href="http://potrace.sourceforge.net/">potrace</a> to function properly OR shapes drawn using only the Path tag. More information can be found <a href="https://www.w3schools.com/graphics/svg_path.asp">here</a>. Currently only supports Windows, untested on MacOS
 
 <h1>USAGE</h1>
 
