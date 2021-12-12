@@ -12,7 +12,7 @@ doc = acad.ActiveDocument
 # Get the ModelSpace object
 ms = doc.ModelSpace
 ACTIONS = {"M", "m", "l", "c"}
-SVG_PATH = "./frames/image2380.svg" # Path of SVG file here
+SVG_PATH = "./file_path_here.svg"
 
 data = open(SVG_PATH, "r")
 soup = BeautifulSoup(data, 'xml')
